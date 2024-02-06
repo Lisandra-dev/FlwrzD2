@@ -1,6 +1,7 @@
 ---  
 share: "true"  
 ---  
+  
 ## Well heya. I'm Mister Flowers. Fledgling sherpa and Titan main.  
   
 ----  
@@ -62,11 +63,11 @@ Things are *heavily* under construction here as I am fairly new at this. Please 
 >  
 > > [!note|clean no-title txt-c]  
 > > ![sban hsmall ws-med](./Attachments/LW%20Images/LW_Banner.webp)  
-> > **[Last Wish](0.%20Intro%20to%20Last%20Wish.md)**  
+> > **[Last Wish](./Raids/Last%20Wish/0.%20Intro%20to%20Last%20Wish.md)**  
 >  
 > > [!note|clean no-title txt-c]  
 > > ![sban hsmall ws-med](./Attachments/DSC%20Images/DSC_banner.webp)  
-> > **[Deep Stone Crypt](0.%20Intro%20to%20Deep%20Stone%20Crypt.md)**  
+> > **[Deep Stone Crypt](./Raids/Deep%20Stone%20Crypt/0.%20Intro%20to%20Deep%20Stone%20Crypt.md)**  
   
 > [!column|s-t flex 3 ] Dungeons  
 >  
