@@ -85,15 +85,17 @@ Also check out the [[Useful tools|tools I use regularly!]]
   
 ## Come hang sometime!  
   
-  
 ##### Bungie  
+  
  MrFlwrz#5967  
   
 ##### Discord  
+  
 @MrFlwrz  
  [The Colonel's Guard](https://discord.com/invite/SJujZm2WDw)  
   
 ##### Destiny Info  
+  
 [Raid Report](https://raid.report/pc/4611686018491494988)  
 [Dungeon Report](https://dungeon.report/pc/4611686018491494988)  
 [Destiny Tracker](https://destinytracker.com/destiny-2/profile/bungie/4611686018491494988/overview)  
