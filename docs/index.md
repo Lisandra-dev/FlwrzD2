@@ -62,11 +62,11 @@ Things are *heavily* under construction here as I am fairly new at this. Please 
 > [!column|s-t flex 3 ] Raids  
 >  
 > > [!note|clean no-title txt-c]  
-> > ![[./assets/img/LW_Banner.webp|sban hsmall ws-med]]  
+> > ![[../Attachments/LW Images/LW_Banner.webp|sban hsmall ws-med]]  
 > > **[[./Raids/Last Wish/0. Intro to Last Wish|Last Wish]]**  
 >  
 > > [!note|clean no-title txt-c]  
-> > ![[./assets/img/DSC_banner.webp|sban hsmall ws-med]]  
+> > ![[../Attachments/DSC Images/DSC_banner.webp|sban hsmall ws-med]]  
 > > **[[./Raids/Deep Stone Crypt/0. Intro to Deep Stone Crypt|Deep Stone Crypt]]**  
   
 > [!column|s-t flex 3 ] Dungeons  
