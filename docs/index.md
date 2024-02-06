@@ -62,12 +62,12 @@ Things are *heavily* under construction here as I am fairly new at this. Please 
 > [!column|s-t flex 3 ] Raids  
 >  
 > > [!note|clean no-title txt-c]  
-> > ![sban hsmall ws-med](./Attachments/LW%20Images/LW_Banner.webp)  
-> > **[Last Wish](./Raids/Last%20Wish/0.%20Intro%20to%20Last%20Wish.md)**  
+> > ![[./assets/img/LW_Banner.webp|sban hsmall ws-med]]  
+> > **[[./Raids/Last Wish/0. Intro to Last Wish|Last Wish]]**  
 >  
 > > [!note|clean no-title txt-c]  
-> > ![sban hsmall ws-med](./Attachments/DSC%20Images/DSC_banner.webp)  
-> > **[Deep Stone Crypt](./Raids/Deep%20Stone%20Crypt/0.%20Intro%20to%20Deep%20Stone%20Crypt.md)**  
+> > ![[./assets/img/DSC_banner.webp|sban hsmall ws-med]]  
+> > **[[./Raids/Deep Stone Crypt/0. Intro to Deep Stone Crypt|Deep Stone Crypt]]**  
   
 > [!column|s-t flex 3 ] Dungeons  
 >  
@@ -79,25 +79,21 @@ Things are *heavily* under construction here as I am fairly new at this. Please 
 > > [!note|clean no-title]  
 > > Coming Soon!  
   
-Also check out the [tools I use regularly!](Useful%20tools.md)  
+Also check out the [[Useful tools|tools I use regularly!]]  
   
 ---  
   
 ## Come hang sometime!  
   
-> [!column|no-title flex ctr no-i]  
->  
-> > [!note|clean no-t no-i]  
-> > ##### Bungie  
-> > MrFlwrz#5967  
->  
-> > [!note|clean no-t no-i]  
-> > ##### Discord  
-> > @MrFlwrz  
-> > [The Colonel's Guard](https://discord.com/invite/SJujZm2WDw)  
->  
-> > [!note|clean no-t no-i]  
-> > ##### Destiny Info  
-> > [Raid Report](https://raid.report/pc/4611686018491494988)  
-> > [Dungeon Report](https://dungeon.report/pc/4611686018491494988)  
-> > [Destiny Tracker](https://destinytracker.com/destiny-2/profile/bungie/4611686018491494988/overview)  
+  
+##### Bungie  
+ MrFlwrz#5967  
+  
+##### Discord  
+@MrFlwrz  
+ [The Colonel's Guard](https://discord.com/invite/SJujZm2WDw)  
+  
+##### Destiny Info  
+[Raid Report](https://raid.report/pc/4611686018491494988)  
+[Dungeon Report](https://dungeon.report/pc/4611686018491494988)  
+[Destiny Tracker](https://destinytracker.com/destiny-2/profile/bungie/4611686018491494988/overview)  
