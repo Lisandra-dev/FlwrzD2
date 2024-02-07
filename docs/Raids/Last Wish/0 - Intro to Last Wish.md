@@ -52,15 +52,15 @@ Laser almonds and puzzles abound!
   
 Take strength, get buffs, kill kill kill  
   
-##### [[./4. The Vault|Vault]]  
+##### [[./4 - The Vault|Vault]]  
   
 Oh God oh fuck.  
   
-##### [[./5. Riven of a Thousand Voices|Riven of a Thousand Voices]]  
+##### [[./5 - Riven of a Thousand Voices|Riven of a Thousand Voices]]  
   
 Poke her toes or shoot her face, cheese style!  
   
-##### [[./6. Riven's Heart|Riven's Heart]]  
+##### [[./6 - Riven's Heart|Riven's Heart]]  
   
 Carry an orb in a relay race, take strengths, hope for the best!  
   
