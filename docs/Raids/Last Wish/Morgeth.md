@@ -117,4 +117,4 @@ Everyone pile to Morgeth's back, pop a well, and use shotguns, fusions, swords, 
   
 EZPZ yeah?  
   
-Next up is ~~hell~~ [[./4 - The Vault|The Vault]]
+Next up is ~~hell~~ [The Vault](./4%20-%20The%20Vault.md)
