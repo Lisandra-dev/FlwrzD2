@@ -123,4 +123,4 @@ The third floor is the final dps encounter with just the almonds.
   
 Shuro Chi has been vanquished. Hell yeah.  
   
-After a jumping puzzle, head to [[./3 - Morgeth, the Spirekeeper|Morgeth]]
+After a jumping puzzle, head to [[./Morgeth|Morgeth]]
