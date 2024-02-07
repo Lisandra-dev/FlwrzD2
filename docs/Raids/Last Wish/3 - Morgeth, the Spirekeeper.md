@@ -1,6 +1,6 @@
 ---  
 title: Morgeth  
-filename: 3%20-%20Morgeth%2C%20the%20Spirekeeper  
+filename: "[[3 - Morgeth, the Spirekeeper]]"  
 activity_type:  
   - Raid  
 activity_name: Last Wish  
