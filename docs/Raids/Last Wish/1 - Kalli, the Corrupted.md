@@ -31,12 +31,12 @@ Each symbol corresponds to a plate around the room with a matching symbol above 
   
 The symbols are above a series of doors. This will be important later.  
   
-![Symbols above the doors](../../assets/img/Kalli_symbols.jpg)  
+![Symbols above the doors](../../assets/img/LW-Kalli-Symbols.jpg)  
   
   
 There are nine total plates, each one divided into three parts.  
   
-![Example of plates and blights](../../assets/img/Kalli_plate.jpg)  
+![Example of plates and blights](../../assets/img/LW-Kalli-Plate.jpg)  
   
 ### Loadouts  
   
@@ -82,7 +82,7 @@ At this point, a fun game of musical chairs begins as underneath her, six doors 
   
   
   
-![open doors](../../assets/img/Kalli_doors.jpg)  
+![open doors](../../assets/img/LW-Kalli-Doors.jpg)  
   
   
   
