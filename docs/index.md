@@ -62,12 +62,12 @@ Things are *heavily* under construction here as I am fairly new at this. Please 
 > [!column|s-t flex 3 ] Raids  
 >  
 > > [!note|clean no-title txt-c]  
-> > ![[./assets/img/LW_Banner.webp|sban hsmall ws-med]]  
-> > **[[./Raids/Last Wish/0 - Intro to Last Wish|Last Wish]]**  
+> > ![sban hsmall ws-med](./assets/img/LW_Banner.webp)  
+> > **[Last Wish](./Raids/Last%20Wish/0%20-%20Intro%20to%20Last%20Wish.md)**  
 >  
 > > [!note|clean no-title txt-c]  
-> > ![[./assets/img/DSC_banner.webp|sban hsmall ws-med]]  
-> > **[[./Raids/Deep Stone Crypt/0. Intro to Deep Stone Crypt|Deep Stone Crypt]]**  
+> > ![sban hsmall ws-med](./assets/img/DSC_banner.webp)  
+> > **[Deep Stone Crypt](./Raids/Deep%20Stone%20Crypt/0.%20Intro%20to%20Deep%20Stone%20Crypt.md)**  
   
 > [!column|s-t flex 3 ] Dungeons  
 >  
@@ -79,7 +79,7 @@ Things are *heavily* under construction here as I am fairly new at this. Please 
 > > [!note|clean no-title]  
 > > Coming Soon!  
   
-Also check out the [[Useful tools|tools I use regularly!]]  
+Also check out the [tools I use regularly!](Useful%20tools.md)  
   
 ---  
   
