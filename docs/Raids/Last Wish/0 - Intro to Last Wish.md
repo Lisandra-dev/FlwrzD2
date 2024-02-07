@@ -13,10 +13,10 @@ share: "true"
   
 ## Table of Contents  
   
-[[0. Intro to Last Wish#Mechanics|Mechanics]]  
-[[0. Intro to Last Wish#Encounters|Encounters]]  
-[[0. Intro to Last Wish#Bonus Chests|Bonus Chests]]  
-[[0. Intro to Last Wish#Tools|Tools]]  
+[[0 - Intro to Last Wish#Mechanics|Mechanics]]  
+[[0 - Intro to Last Wish#Encounters|Encounters]]  
+[[0 - Intro to Last Wish#Bonus Chests|Bonus Chests]]  
+[[0 - Intro to Last Wish#Tools|Tools]]  
   
 ----  
   
@@ -40,15 +40,15 @@ Also there's a **Wishing Wall** found past Kalli's arena after you jump up some 
   
 ## Encounters  
   
-##### [[./1. Kalli, the Corrupted|Kalli, the Corrupted]]  
+##### [[./1 - Kalli, the Corrupted|Kalli, the Corrupted]]  
   
 Let's match some symbols, cleanse some plates, and hide in closets!  
   
-##### [[./2. Shuro Chi, The Corrupted|Shuro Chi]]  
+##### [[./2 - Shuro Chi, The Corrupted|Shuro Chi]]  
   
 Laser almonds and puzzles abound!  
   
-##### [LW Morgeth](./3.%2520Morgeth,%2520the%2520Spirekeeper.md#)  
+##### [[./3 - Morgeth, the Spirekeeper|Morgeth]]  
   
 Take strength, get buffs, kill kill kill  
   

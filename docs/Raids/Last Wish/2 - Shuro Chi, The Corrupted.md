@@ -101,7 +101,7 @@ The guardian who said they were number one will stand by the first plate, number
   
 They will then call out when they're by their plate by saying "\[number] ready". Again, this is top to bottom, left to right.  
   
-![[../../assets/SC_plate.png|center|Example of puzzles]]  
+![[../../assets/img/SC_plate.png|center|Example of puzzles]]  
   
 After a countdown, each guardian will jump on their respective plate. This will fill in the missing pieces on the screen.  
   
@@ -123,4 +123,4 @@ The third floor is the final dps encounter with just the almonds.
   
 Shuro Chi has been vanquished. Hell yeah.  
   
-After a jumping puzzle, head to [[./3. Morgeth, the Spirekeeper|Morgeth]]
+After a jumping puzzle, head to [[./3 - Morgeth, the Spirekeeper|Morgeth]]
