@@ -18,12 +18,9 @@ My guides here might be a bit silly, but I truly hope they help.
 >  
 > - Patience and compassion first and foremost. Raids can already be anxiety inducing enough, being impatient and angry will only be harmful.  
 >  
->  
 > - Wipes are encouraged! Even if you just want to start an encounter to see how the beginning of it works or if someone just can't quite get the mechanics, we're here to teach for a reason! Expecting a crew of New Lights to get a raid done in an hour is unrealistic.  
 >  
->  
 > - Let the New Lights decide what they want to do. Too many times I've been put on add clear and not taught anything I wanted to learn. The players themselves should decide what role to take and what they're most comfortable with.  
->  
 >  
 > - Suggestions, not strict requirements. For certain encounters, different types of weapons might be necessary like in situations where a boss can't be hit by a sword or where a sniper won't be good because the boss will be five feet in front of you. However, I will not ever talk down to a player for not having Thunderlord or something like that. If they have it, great! If not, we'll work around it.  
   
@@ -33,25 +30,24 @@ My guides here might be a bit silly, but I truly hope they help.
   
 Often times you'll see me use fun boxes for things like warnings and notes. Here's what they represent.  
   
-> [!column| flex 3 no-title]  
->  
-> > [!careful] Be Careful!  
-> > Keep an eye out for something important going on  
->  
-> > [!deadly] Death Abound!  
-> > You might wipe from this!  
->  
-> > [!sherpa] Sherpa Notes  
-> > My thoughts on guiding New Lights.  
->  
-> > [!alt] Alternative Method  
-> > Not every party does things the same! Let's look at other options.  
->  
-> > [!lookatthis] Just a Thought!  
-> > These are usually just notes and other fun facts.  
->  
-> > [!tldr] tl;dr  
-> > A basic summary of what's going on.  
+  
+> [!careful] Be Careful!  
+> Keep an eye out for something important going on  
+  
+> [!deadly] Death Abound!  
+> You might wipe from this!  
+  
+> [!sherpa] Sherpa Notes  
+> My thoughts on guiding New Lights.  
+  
+> [!alt] Alternative Method  
+> Not every party does things the same! Let's look at other options.  
+  
+> [!lookatthis] Just a Thought!  
+> These are usually just notes and other fun facts.  
+  
+> [!tldr] tl;dr  
+> A basic summary of what's going on.  
   
 ----  
   
@@ -62,11 +58,11 @@ Things are *heavily* under construction here as I am fairly new at this. Please 
 > [!column|s-t flex 3 ] Raids  
 >  
 > > [!note|clean no-title txt-c]  
-> > ![sban hsmall ws-med](./assets/img/LW_Banner.webp)  
+> > ![sban hsmall ws-med](./assets/img/LW-DC-Banner.webp)  
 > > **[Last Wish](./Raids/Last%20Wish/0%20-%20Intro%20to%20Last%20Wish.md)**  
 >  
 > > [!note|clean no-title txt-c]  
-> > ![sban hsmall ws-med](./assets/img/DSC_banner.webp)  
+> > ![sban hsmall ws-med](./assets/img/DSC-Banner.webp)  
 > > **[Deep Stone Crypt](./Raids/Deep%20Stone%20Crypt/0.%20Intro%20to%20Deep%20Stone%20Crypt.md)**  
   
 > [!column|s-t flex 3 ] Dungeons  
@@ -79,7 +75,7 @@ Things are *heavily* under construction here as I am fairly new at this. Please 
 > > [!note|clean no-title]  
 > > Coming Soon!  
   
-Also check out the [tools I use regularly!](Useful%20tools.md)  
+Also check out the [tools I use regularly!](./Useful%20Tools.md)  
   
 ---  
   
