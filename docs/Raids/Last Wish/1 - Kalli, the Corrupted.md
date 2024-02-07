@@ -31,12 +31,12 @@ Each symbol corresponds to a plate around the room with a matching symbol above 
   
 The symbols are above a series of doors. This will be important later.  
   
-![[../../assets/img/Kalli_symbols.jpg|Symbols above the doors]]  
+![Symbols above the doors](../../assets/img/Kalli_symbols.jpg)  
   
   
 There are nine total plates, each one divided into three parts.  
   
-![[../../assets/img/Kalli_plate.jpg|Example of plates and blights]]  
+![Example of plates and blights](../../assets/img/Kalli_plate.jpg)  
   
 ### Loadouts  
   
@@ -82,7 +82,7 @@ At this point, a fun game of musical chairs begins as underneath her, six doors 
   
   
   
-![[../../assets/img/Kalli_doors.jpg|open doors]]  
+![open doors](../../assets/img/Kalli_doors.jpg)  
   
   
   
@@ -103,4 +103,4 @@ If for some ungodly reason she isn't dead by now, the process starts over from t
   
 Kalli is dead. Congrats.  
   
-Next is [[./2 - Shuro Chi, The Corrupted|Shuro Chi, the Corrupted]]
+Next is [Shuro Chi, the Corrupted](./2%20-%20Shuro%20Chi,%20The%20Corrupted.md)

@@ -65,5 +65,5 @@ In this next room, DPS will begin
   
 ***DONE***  
   
-But wait, there's more. Time for [[./6 - Riven's Heart|Riven's Heart]]  
+But wait, there's more. Time for [Riven's Heart](./6%20-%20Riven's%20Heart.md)  
   
