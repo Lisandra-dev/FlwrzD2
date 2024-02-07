@@ -1,5 +1,6 @@
 ---  
-Title: Morgeth  
+title: Morgeth  
+filename: 3 - Morgeth. the Spirekeeper.md  
 activity_type:  
   - Raid  
 activity_name: Last Wish  
