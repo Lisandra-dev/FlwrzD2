@@ -48,7 +48,7 @@ Let's match some symbols, cleanse some plates, and hide in closets!
   
 Laser almonds and puzzles abound!  
   
-##### [[./3 - Morgeth, the Spirekeeper|Morgeth]]  
+##### [[./Morgeth|Morgeth]]  
   
 Take strength, get buffs, kill kill kill  
   
