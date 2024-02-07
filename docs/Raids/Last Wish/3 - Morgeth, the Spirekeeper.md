@@ -1,5 +1,5 @@
 ---  
-title: Morgeth the Spirekeeper  
+title: Morgeth  
 filename: Morgeth%2C%20the%20Spirekeeper.md  
 activity_type:  
   - Raid  
