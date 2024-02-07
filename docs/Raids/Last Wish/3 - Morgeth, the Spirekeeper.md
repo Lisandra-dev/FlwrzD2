@@ -1,6 +1,6 @@
 ---  
-title: Morgeth the Spirekeeper  
-filename: Morgeth%2C%20the%20Spirekeeper.md  
+title: Morgeth  
+filename: 3 - Morgeth, the Spirekeeper  
 activity_type:  
   - Raid  
 activity_name: Last Wish  
