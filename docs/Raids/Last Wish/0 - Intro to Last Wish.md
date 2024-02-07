@@ -13,10 +13,10 @@ share: "true"
   
 ## Table of Contents  
   
-[[0 - Intro to Last Wish#Mechanics|Mechanics]]  
-[[0 - Intro to Last Wish#Encounters|Encounters]]  
-[[0 - Intro to Last Wish#Bonus Chests|Bonus Chests]]  
-[[0 - Intro to Last Wish#Tools|Tools]]  
+[Mechanics](0%20-%20Intro%20to%20Last%20Wish.mdmechanics)  
+[Encounters](0%20-%20Intro%20to%20Last%20Wish.mdencounters)  
+[Bonus Chests](0%20-%20Intro%20to%20Last%20Wish.mdbonus-chests)  
+[Tools](0%20-%20Intro%20to%20Last%20Wish.mdtools)  
   
 ----  
   
@@ -26,7 +26,7 @@ So, in my opinion, Last Wish doesn't really have a consistent set of building me
   
 **Symbols:** One thing that appears often are sets of symbols with either a bird, snake, fish, or dragon in black on a pale green background. Here are the ones I personally use:  
   
-![[../../assets/img/LW-symbols.png|callouts for symbols]]  
+![callouts for symbols](../../assets/img/LW-symbols.png)  
   
 **Taken Blights**: in a few encounter you'll see some taken orbs in pillars of light. When these are picked up they give a **Taken Strength** debuff which will kill you if you get more than two stacks.  
   
@@ -34,33 +34,33 @@ So, in my opinion, Last Wish doesn't really have a consistent set of building me
   
 Also there's a **Wishing Wall** found past Kalli's arena after you jump up some rocks:  
   
-![[../../assets/img/Wishing Wall.jpeg|The Wishing Wall|ctr]]  
+![The Wishing Wall|ctr](../../assets/img/Wishing%20Wall.jpeg)  
   
 ---  
   
 ## Encounters  
   
-##### [[./1 - Kalli, the Corrupted|Kalli, the Corrupted]]  
+##### [Kalli, the Corrupted](./1%20-%20Kalli,%20the%20Corrupted.md)  
   
 Let's match some symbols, cleanse some plates, and hide in closets!  
   
-##### [[./2 - Shuro Chi, The Corrupted|Shuro Chi]]  
+##### [Shuro Chi](./2%20-%20Shuro%20Chi,%20The%20Corrupted.md)  
   
 Laser almonds and puzzles abound!  
   
-##### [[./Morgeth|Morgeth]]  
+##### [Morgeth](./Morgeth.md)  
   
 Take strength, get buffs, kill kill kill  
   
-##### [[./4 - The Vault|Vault]]  
+##### [Vault](./4%20-%20The%20Vault.md)  
   
 Oh God oh fuck.  
   
-##### [[./5 - Riven of a Thousand Voices|Riven of a Thousand Voices]]  
+##### [Riven of a Thousand Voices](./5%20-%20Riven%20of%20a%20Thousand%20Voices.md)  
   
 Poke her toes or shoot her face, cheese style!  
   
-##### [[./6 - Riven's Heart|Riven's Heart]]  
+##### [Riven's Heart](./6%20-%20Riven's%20Heart.md)  
   
 Carry an orb in a relay race, take strengths, hope for the best!  
   
@@ -82,4 +82,4 @@ https://the-vault.netlify.app/
   
 ----  
   
-Wanna see other guides? Check out [[../../index|the rest of what I have!]]
+Wanna see other guides? Check out [the rest of what I have!](../../index.md)
