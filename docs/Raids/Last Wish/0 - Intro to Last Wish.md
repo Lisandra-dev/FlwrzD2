@@ -34,7 +34,7 @@ So, in my opinion, Last Wish doesn't really have a consistent set of building me
   
 Also there's a **Wishing Wall** found past Kalli's arena after you jump up some rocks:  
   
-![The Wishing Wall|ctr](../../assets/img/Wishing%20Wall.jpeg)  
+![The Wishing Wall](../../assets/img/LW-Wishing-Wall.jpeg)  
   
 ---  
   
