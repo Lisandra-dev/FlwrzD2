@@ -88,9 +88,7 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
       combine_header_slug: true
-      slugify: !!python/object/apply:pymdownx.slugs.slugify
-        kwds:
-          case:lower
+      slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
 
 plugins:
   - awesome-pages
