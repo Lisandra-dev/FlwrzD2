@@ -103,7 +103,7 @@ plugins:
   - glightbox
   - meta-descriptions
   - search:
-      enabled:false
+      enabled: false
 
 hooks:
   - overrides/hooks/on_page_markdown.py
