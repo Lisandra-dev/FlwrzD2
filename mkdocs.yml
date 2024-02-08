@@ -102,7 +102,7 @@ plugins:
         wikilinks: true
   - glightbox
   - meta-descriptions
-  - search
+  - search:
       enabled:false
 
 hooks:
