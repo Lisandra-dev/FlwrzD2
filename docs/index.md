@@ -62,7 +62,7 @@ Things are *heavily* under construction here as I am fairly new at this. Please 
 > > **[Last Wish](./Raids/Last%20Wish/0%20-%20Intro%20to%20Last%20Wish.md)**  
 >  
 > > [!note|clean no-title txt-c]  
-> > ![sban hsmall ws-med](./assets/img/DSC-Banner.webp)  
+> > ![sban hsmall ws-med](Attachments/DSC%20Images/DSC-Banner.webp)  
 > > **[Deep Stone Crypt](./Raids/Deep%20Stone%20Crypt/0.%20Intro%20to%20Deep%20Stone%20Crypt.md)**  
   
 > [!column|s-t flex 3 ] Dungeons  
@@ -83,7 +83,7 @@ Also check out the [tools I use regularly!](./Useful%20Tools.md)
   
 ##### Bungie  
   
- MrFlwrz#5967  
+ MrFlwrz\#5967  
   
 ##### Discord  
   
