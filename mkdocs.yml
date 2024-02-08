@@ -45,7 +45,7 @@ markdown_extensions:
   - attr_list
   - def_list
   - footnotes
-  - md_in_html
+#  - md_in_html
   - mdx_breakless_lists  
   - meta  
   - nl2br
