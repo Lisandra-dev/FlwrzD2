@@ -83,7 +83,7 @@ Also check out the [tools I use regularly!](./Useful%20Tools.md)
   
 ##### Bungie  
   
- MrFlwrz\#5967  
+ MrFlwrz#5967  
   
 ##### Discord  
   
